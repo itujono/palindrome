@@ -1,0 +1,22 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "A simple palindrom phrase identifier app",
+  "main": "index.js",
+  "author": "itujono@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.0-beta.2",
+    "webpack-cli": "^2.0.6"
+  },
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.5",
+    "node-sass": "^4.7.2"
+  }
+}

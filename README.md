@@ -1,5 +1,5 @@
 # palindrome
-A simple Palindrome phrase or sentence identifier — for testing purpose only
+A simple Palindrome phrase or sentence identifier — for testing purpose only!
 
 ## Install dependencies
 `yarn` or `yarn install`

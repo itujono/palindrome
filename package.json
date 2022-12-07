@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bulma": "^0.6.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "lodash": "^4.17.5",
     "node-sass": "^4.7.2"
   }
